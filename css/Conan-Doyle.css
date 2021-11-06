@@ -1,0 +1,69 @@
+body{
+    background-color: rgba(235, 177, 101, 0.986);
+    margin: 0 20%;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Libre Baskerville';
+}
+
+h2{
+    font-family: 'Libre Baskerville' ;
+    text-align: center;
+}
+
+#image{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+#img-caption{
+    
+    margin-top: 10px;
+    text-align: center;
+}
+
+div#tirbute-info{
+    background-color: rgba(235, 177, 101, 0.986);
+    box-shadow: 20px 20px 15px grey;
+    padding:5px 10px;
+    margin-top:20px;
+    text-align: justify;
+}
+
+hr{
+    border-bottom: solid;
+    color: rgba(66, 58, 97, 0.568);
+    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+footer p{
+
+    margin: 0;
+    font-size: 20px;   
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    color: rgba(16, 12, 233, 0.815);
+    opacity: .7;
+    background-color: transparent;
+}
